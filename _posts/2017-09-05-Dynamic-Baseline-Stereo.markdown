@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dynamic Baseline Binocular Stereo using Multirotor UAVs<br>(Princeton 2015 Undergraduate Thesis)"
+title:  "Dynamic Baseline Binocular Stereo using Multirotor UAVs"
 date:   2017-09-05 10:12:00 -0800
 categories: projects
 ---
