@@ -4,4 +4,10 @@
 
 a:hover, a:focus {
   color:#069;
+  font-weight: normal;
 }
+
+h1 a:hover, h2 a:hover {
+  font-weight:bold;
+}
+
