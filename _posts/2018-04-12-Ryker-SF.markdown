@@ -3,7 +3,7 @@ layout: post
 title:  "Reconstructing 1938 San Francisco from Aerial Images"
 date:   2018-04-12 10:12:00 -0800
 categories: projects
-excerpt: "I worked with [Justin Manley](http://justinmanley.io/) to use Harrison Ryker's 1938 set of aerial photographs of San Francisco to extract depth information and construct a point cloud of the city as it was in the '30s. We ran into some interesting challenges, from inaccurate GeoTIFF data to keypoint-snatching street labels. As the project currently stands, we have depth information for regions of the city covered by two or more photos, and plenty of room for improvement."
+excerpt: "I worked with Justin Manley to use Harrison Ryker's 1938 set of aerial photographs of San Francisco to extract depth information and construct a point cloud of the city as it was in the '30s. We ran into some interesting challenges, from inaccurate GeoTIFF data to keypoint-snatching street labels. As the project currently stands, we have depth information for regions of the city covered by two or more photos, and plenty of room for improvement."
 ---
 
 This winter I took Silvio Savarese’s [course](http://web.stanford.edu/class/cs231a/]) on 3D computer vision through the Stanford Center for Professional Development. For my final project, I worked with [Justin Manley](http://justinmanley.io/) to reconstruct a 3D topography of 1938 San Francisco from a series of aerial photographs taken by Harrison Ryker, available digitally through the Rumsey Map Collection at Stanford. I highly recommend checking out the [full collection of images](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~217219~5504219:Composite--1-164-San-Francisco-Aeri). It’s like perusing a 1938 satellite view of the city.
