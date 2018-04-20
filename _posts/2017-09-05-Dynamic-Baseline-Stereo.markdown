@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dynamic Baseline Binocular Stereo using Multirotor UAVs"
+title:  "Capturing Dynamic Baseline Stereo Video using Multirotor UAVs"
 date:   2017-09-05 10:12:00 -0800
 categories: projects
 excerpt: "My thesis at Princeton University used multirotor drones to take stereo video from two different airborne perspectives. The captured video could be viewed through a VR headset to give the impression that the viewer was standing hundreds of feet tall, with eyes set far apart"
